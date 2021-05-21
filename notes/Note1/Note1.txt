@@ -1,0 +1,4 @@
+Follow this first
+
+
+Tools, texture groups, select sprite and uncheck automatically crop

@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},"order":0,},
+    {"id":{"name":"test","path":"objects/test/test.yy",},"order":1,},
+    {"id":{"name":"Sh_outline","path":"shaders/Sh_outline/Sh_outline.yy",},"order":0,},
+    {"id":{"name":"Letras","path":"fonts/Letras/Letras.yy",},"order":0,},
+    {"id":{"name":"snd_titanium","path":"sounds/snd_titanium/snd_titanium.yy",},"order":0,},
+    {"id":{"name":"Obj_character","path":"objects/Obj_character/Obj_character.yy",},"order":0,},
+    {"id":{"name":"spr_cerberus","path":"sprites/spr_cerberus/spr_cerberus.yy",},"order":0,},
+    {"id":{"name":"rm_outline_test_character","path":"rooms/rm_outline_test_character/rm_outline_test_character.yy",},"order":0,},
+  ],
+  "Options": [
+    {"name":"Amazon Fire","path":"options/amazonfire/options_amazonfire.yy",},
+    {"name":"Android","path":"options/android/options_android.yy",},
+    {"name":"iOS","path":"options/ios/options_ios.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+  ],
+  "isDnDProject": false,
+  "isEcma": false,
+  "tutorialPath": "",
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_outline_test_character","path":"rooms/rm_outline_test_character/rm_outline_test_character.yy",},},
+  ],
+  "Folders": [
+    {"folderPath":"folders/Shaders.yy","order":6,"resourceVersion":"1.0","name":"Shaders","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Room.yy","order":10,"resourceVersion":"1.0","name":"Room","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects.yy","order":11,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites.yy","order":12,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Cerberus.yy","order":1,"resourceVersion":"1.0","name":"Cerberus","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Notes.yy","order":14,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Fonts.yy","order":15,"resourceVersion":"1.0","name":"Fonts","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Musica.yy","order":16,"resourceVersion":"1.0","name":"Musica","tags":[],"resourceType":"GMFolder",},
+  ],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"autocrop":false,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2.3.2.560",
+  },
+  "resourceVersion": "1.4",
+  "name": "Outlines",
+  "tags": [],
+  "resourceType": "GMProject",
+}
